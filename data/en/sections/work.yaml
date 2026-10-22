@@ -12,6 +12,23 @@ section:
 experiences:
 
 - company:
+    name: California Department of Water Resources
+    url: "https://water.ca.gov/"
+    location: Sacramento, CA
+    logo: /images/sections/experiences/DWR.png
+    overview:
+  positions:
+  - designation: Engineer, Outreach and Engagement Team, Sustainable Groundwater Management
+    start: May 2026
+    end: Present
+    skills:
+    - Python
+    - SQL
+    - PowerBI
+    responsibilities:
+    - Lead a $6M statewide facilitation and outreach program under SGMA, resolving stakeholder conflicts across 100+ California groundwater basins while standardizing communication, briefing materials, and FAQs across state agencies, GSAs, and community partners. Own program data management and performance monitoring, building basin-level datasets and reporting pipelines used for statewide compliance decisions, and leading technical review of competing analytical approaches with academics, consultants, and local agencies.
+
+- company:
     name: Santa Clara Valley Water District
     url: "https://www.valleywater.org/"
     location: San Jose, CA
@@ -20,12 +37,12 @@ experiences:
   positions:
   - designation: Assistant Engineer
     start: June 2025
-    end: Present
+    end: May 2026
     skills:
     - PowerBI
     - Excel VBA
     responsibilities:
-    - Developed data-driven reporting workflows for a 24,000 AFY infrastructure program, partnering with engineering, operations, and regulatory teams to define requirements, prioritize reporting needs, and translate complex environmental and operational datasets into clear Power BI and Excel dashboards for faster stakeholder decision-making.
+    - Supported program development for recycled water and water master planning, including a 24,000 AFY advanced purification facility in Santa Clara County, coordinating stakeholders, consultants, and intern staff. Built Power BI and Excel dashboards integrating project milestones, performance metrics, and compliance data for engineering leadership and field teams.
 
 - company:
     name: EKI Environment and Water Inc.
